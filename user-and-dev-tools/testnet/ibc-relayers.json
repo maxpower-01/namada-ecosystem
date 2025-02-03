@@ -1,11 +1,38 @@
 [
   {
-    "Network A": "",
-    "Network B": "",
-    "A to B Channel ID": "",
-    "B to A Channel ID": "",
-    "Team or Contributor Name": "",
-    "Discord UserName": "",
-    "GitHub Account": ""
+    "chain_1": {
+      "chain_id": "housefire-alpaca.cc0d3e0c033be",
+      "client_id": "07-tendermint-0",
+      "connection_id": "connection-0"
+    },
+    "chain_2": {
+      "chain_id": "osmosis-1",
+      "client_id": "07-tendermint-3408",
+      "connection_id": "connection-10229"
+    },
+    "channels": [
+      {
+        "chain_1": {
+          "channel_id": "channel-0",
+          "port_id": "transfer"
+        },
+        "chain_2": {
+          "channel_id": "channel-97083",
+          "port_id": "transfer"
+        }
+      }
+    ],
+    "support": [
+      {
+        "Team_or_Contributor_Name": "Mandragora",
+        "Discord_UserName": "danielmandragora",
+        "GitHub_Account": "McDaan"
+      },
+      {
+        "Team_or_Contributor_Name": "max-03",
+        "Discord_UserName": "power542",
+        "GitHub_Account": "maxpower-01"
+      }
+    ]
   }
 ]
