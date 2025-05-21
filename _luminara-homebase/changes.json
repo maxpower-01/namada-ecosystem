@@ -20978,5 +20978,19 @@
                 "new_value": "3.0.2"
             }
         ]
+    },
+    {
+        "timestamp": "2025-05-21T21:23:22.662415+00:00Z",
+        "changes": [
+            {
+                "team": "MELLIFERA",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.MELLIFERA.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.0.2",
+                "new_value": "2.5.4"
+            }
+        ]
     }
 ]
