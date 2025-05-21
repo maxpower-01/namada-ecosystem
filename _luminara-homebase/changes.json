@@ -20941,5 +20941,28 @@
                 "new_value": "sync_ok"
             }
         ]
+    },
+    {
+        "timestamp": "2025-05-21T17:21:55.930477+00:00Z",
+        "changes": [
+            {
+                "team": "deNodes",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.deNodes.service.indexer.version",
+                "type": "modified",
+                "old_value": "2.5.3",
+                "new_value": "2.5.4"
+            },
+            {
+                "team": "itrocket",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.itrocket.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.0.2",
+                "new_value": "2.5.4"
+            }
+        ]
     }
 ]
