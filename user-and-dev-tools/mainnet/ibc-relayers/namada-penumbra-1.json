@@ -53,6 +53,16 @@
         "relayer_wallet_address": {
           "namada": "tnam1qp6cxlnl97xaxk9ey7tqtz0605gqgjz2hvcnfgt2",
           "penumbra-1": "penumbra193n6xjevxtmayrshz0mm5drpyfdzz6gk92saz37qql3mlhdu2hv7kfvkxm8lr6a4u57t0p0f4wa0xu6sdzl5g7vukr8y82pzkwxfr64uy0klje9chfrss99wc7272g9ugk4z6n"
+        },
+        ,
+      {
+        "team_or_contributor_name": "max-02",
+        "discord_username": "power542",
+        "github_account": "maxpower-01",
+        "creator_maintainer": "no",
+        "relayer_wallet_address": {
+          "namada": "tnam1qr6nhs8mjj2n9ra5n2ukw32068qw2w3y45wlk8tc",
+          "penumbra-1": ""
         }
       }
     ]
